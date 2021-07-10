@@ -1,0 +1,17 @@
+
+.main-count-outlet
+{
+   gap:130px;
+   display: flex;
+}
+
+.form-outlet
+{
+    height: 200px;
+    margin-top: -30px;
+}
+
+.outer-outlet .table
+{
+    width:82vw;
+}

@@ -1,0 +1,28 @@
+
+
+.outer-outlet
+{
+    display: flex;
+    background: transparent;
+    height: 58vh;
+}
+
+.main_video_container
+{
+    background: transparent;
+    height:58vh;
+}
+
+.list-group 
+{
+
+    overflow-y: scroll;
+}
+.list-group::-webkit-scrollbar
+{
+    display: none;
+}
+.list-group li
+{
+    margin-bottom: 10px;
+}
